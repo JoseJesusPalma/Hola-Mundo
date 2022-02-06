@@ -1,3 +1,2 @@
 # Hola-Mundo
-mi primer hola mundo
-hola 
+al chile no se que se hace aqui
